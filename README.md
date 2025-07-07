@@ -1,4 +1,4 @@
-## Hi there 👋
+ ## Hello World👋
 
 <!--
 **Luis-D-Espinoza/Luis-D-Espinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**'Perpetual Learner (Tech/History/Games'**
+**`Perpetual Learner (Tech/History/Games)`**
 
-I'm a former historian with an itch to create beyond in black and white. As a self-taught frontend developer I cherish every project made from scratch that allows to me grow thorugh creative solutions like civilizations before.  Through my published writings in "[history] and "[tech]" you can find more about insights of my personal journey.
+I'm a former historian with an itch to create beyond in black and white. As a self-taught frontend developer I cherish every project made from scratch that allows to me grow thorugh creative solutions like civilizations before.  Through my published writings in [history]() and [tech]() you can find more insight on my past and running endeavor.
+
+- 🔭 I’m currently working on frontend for a history sharing website for students, teachers, and enthusiasts
+- 🌱 I continue to improve on my javascript fundamentals
+  
+
