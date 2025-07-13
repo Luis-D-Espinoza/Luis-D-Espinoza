@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **`Perpetual Learner (Tech/History/Games)`**
 
-I'm a former historian with an itch to create beyond in black and white. As a self-taught frontend developer I cherish every project made from scratch that allows to me grow throughh creative solutions like civilizations before.  Through my published writings in [history]() and [tech]() you can find more insight on my past and running endeavor.
+I'm a former historian with an itch to create beyond in black and white. As a self-taught frontend developer I cherish every project made from scratch that allows to me grow through creative solutions like civilizations before.  Through my published writings in [history]() and [tech]() you can find more insight on my past and ongoing endeavor.
 
 - 🔭 I’m currently working on frontend for a history sharing website for students, teachers, and enthusiasts
 - 🌱 I continue to improve on my javascript fundamentals
